@@ -1,0 +1,2 @@
+## [Profitability Analysis of Newly Acquired Clients](https://raw.githack.com/schigin/data_fellows/main/traffic_profitability_estimation/main.html)
+Since the **html** file will have all internal hyperlinks accessible, it is advised to go through the project using it (just click on the title above) rather than the **ipynb notebook**. 
